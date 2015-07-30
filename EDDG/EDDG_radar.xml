@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+ <path>EDDG_radar.ac</path>
+ <animation> 
+<type>rotate</type> 
+<object-name>RADAR</object-name> 
+<property>/sim/time/elapsed-sec</property> 
+<factor>150.0</factor> 
+<center> <x-m>0</x-m> <y-m></y-m> <z-m>70</z-m> </center> 
+<axis> <x>0</x> <y>0</y> <z>1</z> </axis> 
+</animation>
+
+</PropertyList>
